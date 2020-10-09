@@ -1,3 +1,5 @@
+//sorting of array
+
 public class ArrayGrouping
 {
 	public static void main(String[] args) 
